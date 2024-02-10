@@ -3,7 +3,7 @@
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
 # Why?
-Why not. The security was too a$$ after i realized that was i overthinking it BRUH. I thought at first that the security was sum better sh1t but nah, I just had bad day or some sh1t.
+Why not. The security was too a$$ after i realized that was i overthinking it BRUH. I thought at first that the security was sum better sh1t but nah, I just had bad day or some sh1t. Here is a [AutoTrade module showcase](https://www.youtube.com/watch?v=IckqRyHhcx8)
 
 [1]: https://github.com/3000IQPlay
 [2]: https://github.com/ethaanol
@@ -22,7 +22,3 @@ Why not. The security was too a$$ after i realized that was i overthinking it BR
 # GUI (Bind: K)
 
 <img src="https://media.discordapp.net/attachments/1165553952109117461/1205966342742868088/Dzh6tvK.png?ex=65da4aad&is=65c7d5ad&hm=fcf5312dda3f9318516bf5895194c07251fff61d02b9e7106fa2a0677fd42ade&=&format=webp&quality=lossless&width=1662&height=934">
-
-# AutoTrade Showcase
-
-<img src="https://www.youtube.com/watch?v=IckqRyHhcx8">
