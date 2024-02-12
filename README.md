@@ -5,10 +5,10 @@
 # Why?
 Why not. The security was too a$$ after i realized that was i overthinking it BRUH. I thought at first that the security was sum better sh1t but nah, I just had bad day or some sh1t. Here is a list of videos related to the client.
 
-[Auto Villager Trader](https://www.youtube.com/watch?v=IckqRyHhcx8)
-[Auto Villager Trader (2)](https://www.youtube.com/watch?v=d0IWPgKH7DY)
-[Ghast Bot](https://youtu.be/RU5dnAOFRwQ)
-[Ruler Module](https://www.youtube.com/watch?v=YA0B6DVIvMM)
+[Auto Villager Trader](https://www.youtube.com/watch?v=IckqRyHhcx8) <br>
+[Auto Villager Trader (2)](https://www.youtube.com/watch?v=d0IWPgKH7DY) <br>
+[Ghast Bot](https://youtu.be/RU5dnAOFRwQ) <br>
+[Ruler Module](https://www.youtube.com/watch?v=YA0B6DVIvMM) <br>
 [Auto Disconnect (Insane)](https://www.youtube.com/watch?v=YxbINFiRrI4)
 
 [1]: https://github.com/3000IQPlay
