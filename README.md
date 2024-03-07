@@ -27,4 +27,4 @@ Why not. The security was too a$$ after i realized that was i overthinking it BR
 
 # GUI (Bind: K)
 
-<img src="https://media.discordapp.net/attachments/1165553952109117461/1205966342742868088/Dzh6tvK.png?ex=65da4aad&is=65c7d5ad&hm=fcf5312dda3f9318516bf5895194c07251fff61d02b9e7106fa2a0677fd42ade&=&format=webp&quality=lossless&width=1662&height=934">
+<img src="https://github.com/WS-External-Cloud/Readme-Assets/blob/main/kvn-gui.png?raw=true">
